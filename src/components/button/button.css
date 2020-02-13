@@ -1,0 +1,10 @@
+.btn{
+    border:1px solid #ccc;
+    background-color: cadetblue;
+    width: 150px;
+    border-radius: 4px;
+    padding: 8px 4px;
+    color: #fff;
+    cursor: pointer;
+    margin: 2em auto;
+}
