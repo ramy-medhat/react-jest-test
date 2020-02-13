@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## at the beginning
+you have to write this command to apply jest unit testing
+[npm install @testing-library/react react-test-renderer jest-dom --save-dev]
+
 ## Available Scripts
 
 In the project directory, you can run:
